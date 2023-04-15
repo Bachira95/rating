@@ -1,0 +1,50 @@
+.subCont {
+    background-color: #1e242e;
+    position: absolute;
+    width: 320px;
+    height: 290px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imgSub {
+    width: 100px;
+    height: 70px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.paragraph {
+    padding: 5px;
+    font-size: 13px;
+    color: #fd7512;
+    background-color: #242e37;
+    border-radius: 20px;
+    width: 50%;
+
+}
+
+.thanks {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: -5px;
+}
+
+.appreciate {
+    font-size: 12px;
+    color: #7b848d;
+    padding-bottom: 30px;
+    font-weight: 600;
+}
